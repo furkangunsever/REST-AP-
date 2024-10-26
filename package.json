@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "write rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkangunsever/REST-AP-.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "express",
+    "backend"
+  ],
+  "author": "Furkan Can Günsever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkangunsever/REST-AP-/issues"
+  },
+  "homepage": "https://github.com/furkangunsever/REST-AP-#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
